@@ -1,6 +1,6 @@
 # Role_Base_App
 
-This project is a **MERN Stack Application** built using **MongoDB, Express.js, React.js, and Node.js**. Follow the steps below to clone, set up, and run the project locally.
+This project is a **MERN Stack Application** built using **MySQL, Express.js, React.js, and Node.js**. Follow the steps below to clone, set up, and run the project locally.
 
 
 ## Prerequisites
@@ -10,7 +10,7 @@ Ensure the following software is installed on your system:
 1. **Node.js** (version 14 or higher) - [Download Node.js](https://nodejs.org)  
 2. **npm** or **yarn** (comes with Node.js installation)  
 3. **Git** - [Download Git](https://git-scm.com)  
-4. **MongoDB** (local or cloud setup) - [Download MongoDB](https://www.mongodb.com)
+4. **MySQL** MySQL (local storage via XAMPP) - Download XAMPP
 
 
 ## Clone the Repository
@@ -98,6 +98,6 @@ To start the backend Node.js server:
 ## Project Structure
 
 .
-├── backend       # Backend code (Node.js, Express,MongoDB)
+├── backend       # Backend code (Node.js, Express, MySQL)
 ├── frontend      # Frontend code (React.js)
 └── README.md     # Project documentation
